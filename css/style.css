@@ -559,6 +559,9 @@ margin-bottom: 50px;
 .contact-accent {
     color: var(--accent-color);
 }
+details {
+    cursor: pointer;
+}
 /* Начало медиазапросов для секции "CONTACTS" */
 @media screen and (max-width: 1280px) {
     .contacts__grid {
